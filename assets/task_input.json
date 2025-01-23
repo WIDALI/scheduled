@@ -1,0 +1,82 @@
+{
+    "Dynamic Priority MLQ": [
+      "Assignment Name",
+      "Duration",
+      "Priority",
+      "Category",
+      "Deadline","Start Time"
+    ],
+    "Static Priority MLQ": [
+      "Assignment Name",
+      "Duration",
+      "Priority",
+      "Category", "Start Time"
+    ],
+    "Strict Time-Slice RR": ["Assignment Name", "Duration", "Study Time", "Start Time"],
+    "No Workflow": ["Assignment Name", "Duration", "Start Time"],
+    "Dynamic RR": ["Assignment Name", "Duration", "Category", "Start Time"],
+    "Dynamic Weighted FCFS": ["Assignment Name", "Duration", "Category", "Start Time"],
+    "Static FCFS": ["Assignment Name", "Duration", "Start Time"],
+    "Dynamic Weighted SJF": [
+      "Assignment Name",
+      "Duration",
+      "Date Set",
+      "Category", "Start Time"
+    ],
+    "FCFS with Priority Overrides": [
+      "Assignment Name",
+      "Duration",
+      "Priority",
+      "Deadline", "Start Time"
+    ],
+    "Preemptive SJF": [
+      "Assignment Name",
+      "Duration",
+      "Date Set",
+      "Preemption Rule", "Start Time"
+    ],
+    "Dynamic MLQ": ["Assignment Name", "Duration", "Priority", "Deadline"],
+    "FCFS": ["Assignment Name", "Duration"],
+    "RR": ["Assignment Name", "Duration", "Study Time"],
+    "Dynamic Priority": [
+      "Assignment Name",
+      "Duration",
+      "Priority",
+      "Preemption Rule", "Start Time"
+    ],
+    "Static Priority": ["Assignment Name", "Duration", "Priority"],
+    "MLQ with reprioritisation": [
+      "Assignment Name",
+      "Duration",
+      "Priority",
+      "Priority Change", "Start Time"
+    ],
+    "Static Priority with FCFS": [
+      "Assignment Name",
+      "Duration",
+      "Priority",
+      "Date Set", "Start Time"
+    ],
+    "Static Priority with SJF": ["Assignment Name", "Duration", "Priority", "Start Time"],
+    "Hybrid Priority MLQ": [
+      "Assignment Name",
+      "Duration",
+      "Priority",
+      "Preemption Rule", "Start Time"
+    ],
+    "Pre-assigned Fixed RR": ["Assignment Name", "Duration", "Study Time", "Start Time"],
+    "General Fixed RR": ["Assignment Name", "Duration", "Study Time", "Start Time"],
+    "Deadline Adaptive RR": [
+      "Assignment Name",
+      "Duration",
+      "Study Time",
+      "Deadline", "Start Time"
+    ],
+    "Size Adaptive RR": ["Assignment Name", "Duration", "Study Time", "Category","Start Time" ],
+    "Static Weighted SJF": [
+      "Assignment Name",
+      "Duration",
+      "Date Set",
+      "Category", "Start Time"
+    ]
+  }

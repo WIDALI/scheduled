@@ -1,0 +1,66 @@
+Node ID,Option 1 Text ,Option 1 Link,Process 1 Text,Option 2 Text,Option 2 Link,Process 2 Text,Option 3 Text,Option 3 Link,Process 3 Text,Description
+1,Group Study,2,Discuss and outline group goals,Solo Study,6,Prepare a task lisk for yourself,Both,10,Decide which topics for group or solo work,Do you prefer Group Study?
+2,Divide Tasks,3,Assign tasks to group members,Study One Topic as a Group,10,Collaboratively review and discuss the intended topic,Dependent on Time,11,Evaluate available time for task-sharing,Do you divide tasks among members?
+3,Strength Based,4,Assign tasks according to individual strengths,Random,11,Distribute tasks randomly,Dependent on Time,12,Decide based on time constraints,Are tasks assigned based on individual strengths?
+4,Work Separately,5,Define clear individual goals,Collaborate Together,12,Coordinate efforts for shared progress,Occasionally Collaborate,20,Set collaboration boundaries,Do team members works seperately
+5,Frequently Looked at,41,Frequently reevaluate task progress,Rarely Reevaluated,42,Evaluate tasks less frequently,No Reevaluation,43,Tasks proceed without reevaluation,Does the team reevaluate tasks throughout the process
+6,Focus on One,13,Concentrate fully on a singe task,Multiple Tasks,7,Plan multiple tasks with clear prioritisation,Adaptive to my Mood,20,Choose tasks based on mood and motivation,Do you focus on one task until completion 
+7,Stop if Struggling,14,Switch tasks to allow yourself time to think,Persist Regardless,8,Continue despite challenges Perseverence!,Ask for Help,9,Seek guidance or support via classmates/ module co-ordinator,Do you often stop a task if you are struggling and move on to another
+8,Predefined List,15,Use a pre-made list of tasks,Randomised,9,Select tasks at random,Adjust Based on Available Resources,45,Modify tasks dynamically based on resources,Do you rely on a list/schedule to decide what task to do next?
+9,Switch Based on Resources,45,Tasks are shifted based on availablity of resources,Stick to Initial Plan,44,Maintain the original task sequence,Reassess After a Period of Time,10,Periodically review and adjust task order,Do you switch tasks based on available resources?
+10,Focus on One Topic,16,Focus exclusively on one topic,More Than One Topic at a Time,17,Focus on multiple tpic at the same time ,Adaptive to Mood,11,Choose tasks flexibly based on mood,Do all members focus on the same task/topic at the same time?
+11,Importance,18,Prioritise based on importance,Availability,19,Prioritise tasks based on availablity,Difficulty,20,Tackle more complex tasks,Are tasks assigned based on difficulty or importance
+12,Democratic Decisions,18,Ensure decisions are made democratically,Fixed Leader,20,Assign leadership to one fixed person,Quasi-Leadership,21,Allow leadership to be partially guided,Does your team work democratically?
+13,Prioritise Quick Tasks,21,Prioritise tasks that can be completed quicker,Address Big Tasks First,22,Focus on the most urgent tasks,Both,22,Balance priorities between tasks,Do you choose tasks based on how quickly they can be completed?
+14,Prioritise Due Date,22,Plan tasks in order of deadlines,Importance,23,Prioritise tasks based on importance,Randomised,13,Choose tasks in random order,Do you prioritise the task by their importance (ie due date)? 
+15,Create a Schedule in Advance,47,Create a fixed schedule in advance,Adjust as you go,46,Adjust your schedule dynamically,Both,46,Combine structured and flexible scheduling,Do you create the schedule in advance or update tasks as they are completed?
+16,Everyone agrees on Priority,23,Esnure consensus on priorities,Discuss when Needed,18,Disciss priorities when needed,Voted on,24,Allow priorities to be voted on,Do members all decide to prioritise via importance?
+17,Follow a Hierarchy,24,Follow a predefined order of tasks,Flexible Order,25,Allow flexible order,Adaptive to situation,26,Adapt priorities to specific needs,Do members follow a predefined hierarchy?
+18,Chronological Order,26,Assign tasks in chronological order ,Based on Immediate Needs ,27,Prioritise based on immidiate needs ,Randomised,28,Select tasks randomly,Are task assigned in chronological order?
+19,Fixed Leader,28,Assign leadership to one person,Rotating Leadership,29,Rotate leadership every so often,No Leader,30,Avoid assigning specific leadership roles,Does your team work better with a fixed leader?
+20,Reorder Tasks Frequently ,29,Frequently reorder tasks based on urgency,Keep Original Order,49,Stick to the original task order,Adjust Based on Urgency (Deadline Date),40,Adjust urgency dynamically based on deadlines,Do you reorder tasks frequently?
+21,Prioritise Quick Tasks ,48,Handle quicker tasks first,Address Urgent Tasks,65,Focus on urgent tasks,Borh,50,Balance urgency and task size,Do you reorder tasks as new tasks are added?
+22,Stick to Chose Tasks,39,Stick with pre-made task order,Reevaluate After Each Task,40,Reevaluate tasks after each one is complete,Adaptive to situation,30,Flexibly adjust task priorities,Do you prioritise easier tasks even if their deadlines are later
+23,Categorise by Urgency,60,Categorise tasks my urgency levels (ie: due date),Flexible Assignment of Topics,41,Flexibly assign topics without grid categorisation,Prioritise Based on Category,41,Prioritize by category over urgency,Are tasks grouped into fixed categories?
+24,As Assignments are Set,58,Organise tasks as they are assigned,Shortest Task First,59,Focus on the shortest tasks first,Effort-Based,60,Base prioritisation on required effort,Are tasks within the same category ordered?
+25,Preorganised Rotation of Lead,61,Rotate leadersp roles in an organised cycke,Flexible Rotation,62,Allow flexible rotation of leadership roles,Adjust as it comes,63,Adjust rotation dynamically,Are topics rotated equally amongst members?
+26,Size-Based (Complexity of Assignment),63,Organise tasks based on complexity (difficulty),Deadline Based,64,Focus on deadlines first,Effort Based ,65,Use effort as the main factor for task order,Does rotation adapt to task size or deadlines?
+27,Stick to Initial Priority,50,Stick to original priority,Adjust when Needed,51,Adjust priorities as needed,Follow Set Guidlines,52,Follow preset task guidelines,Do members follow a static or changing priority?
+28,Priority Changes Frequently,57,Adjust priorities frequently ,Follow Original Priority,56,Maintain the original priority order,Adjust as it comes,55,Adapt to immediate context of the situation,Are priorities frequently adjusted?
+29,Fixed Categories,60,Group tasks into fixed categories,Changing Categories,41,Group tasks into changing categories,No Categories,42,Skip categorisation,Are tasks grouped into fixed categories?
+30,Reassess Constantly,55,Reassess tasks constantly,Follow Original Plan,56,Stick to the original plan,Adjust as it comes,57,Adapt dynamically to changing needs,Are tasks reassigned if priorities shift unexpectedly
+31,Prioritise Quick Tasks,48,Handle quicker tasks first,Focus on Urgent Tasks (Deadline Due),57,Focus on tasks based on deadlines,Effort Based,65,Base tasks entirely on efffort,Do members prioritise tasks that require the least time to complete?
+32,By Order of Date Set,53,Organise tasks by date set,Shortest Task First,54,Prioritise tasks you think will be completed quickwe,Randomised,60,Randomise tasks dynamically,Do members prioritise tasks solely based on their date set
+33,Fixed Categories,60,Group tasks into fixed categories,Changing Categories,41,Adjust task categorisation to user needs,Priority Driven,41,"Use priority as a ""tie-breaker""",Are tasked grouped into fixed categories (urgent/non-urgent)
+34,Date Set,58,Sort tasks by their priority levels,Pririty Order,59,Base urgency on deadlines as a whole,Effort Based ,60,Balance effort and reward by case,Are tasks within the same priority group processed in order of arrival?
+35,Preassigned Tasks,61,Assign tasks to members as you progress,Random Assignments,62,Assign tasks with no predefined method,Effort Based,63,Focus on nearer deadlines first,Are tasked preassigned?
+36,Size-Based (Complexity of Assignment),63,Urgency is based on deadlies,Deadline Based,64,Prioritise task by deadline,Effort Based,65,Adjust to task complexity (difficulty),Does the rotation adapt to the size of tasks/ deadlines?
+37,Adjust for Priority,51,Adjust tasks based on importance (ie: higher credit task),Fixed Priority,52,Maintain priorities strictly,Adjust as it comes,50,Balance priority and effort ,Are tasks adjusted for changes in priority or urgency?
+38,Collective Decisions,19,Make decisions as a group,Rotational,43,Decide tasks in a rotational cycle,Hierarchical Decisions,20,A balance of both,Do members decide tasks collectively or in a rotation
+39,Stick with the Plan,49,Stick to tasks that have been assigned definitely,Adjusted Regularly,48,Adjust tasks in a regular cycle,Effort Based,47,Adapt to tasks as they come,"Do you stick to tasks once chosen, regardless of urgency or complexity?"
+40,Switch to tasks with closer deadlines,55,Switch to urgent tasks when deadlines nears ,Stick with Current Task ,49,Focus on current tasks,Reassess After a Period of Time,48,Reassess tasks frequently to see if a higher priority arises,Do you switch back to more urgent tasks if the deadline is approaching?
+41,,-1,,,-1,,,-1,,Dynamic Priority MLQ
+42,,-1,,,-1,,,-1,,Static Priority MLQ
+43,,-1,,,-1,,,-1,,Strict Time-Slice RR
+44,,-1,,,-1,,,-1,,No Workflow
+45,,-1,,,-1,,,-1,,Dynamic RR
+46,,-1,,,-1,,,-1,,Dynamic Weighted FCFS
+47,,-1,,,-1,,,-1,,Static FCFS
+48,,-1,,,-1,,,-1,,Dynamic Weighted SJF
+49,,-1,,,-1,,,-1,,FCFS with Priority Overrides
+50,,-1,,,-1,,,-1,,Static Priority MLQ
+51,,-1,,,-1,,,-1,,Preemptive SJF
+52,,-1,,,-1,,,-1,,Dynamic MLQ
+53,,-1,,,-1,,,-1,,FCFS
+54,,-1,,,-1,,,-1,,RR
+55,,-1,,,-1,,,-1,,Dynamic Priority
+56,,-1,,,-1,,,-1,,Static Priority
+57,,-1,,,-1,,,-1,,MLQ with reprioritisation
+58,,-1,,,-1,,,-1,,Static Priority with FCFS
+59,,-1,,,-1,,,-1,,Static Priority with SJF
+60,,-1,,,-1,,,-1,,Hybrid Priority MLQ
+61,,-1,,,-1,,,-1,,Pre-assigned Fixed RR
+62,,-1,,,-1,,,-1,,General Fixed RR
+63,,-1,,,-1,,,-1,,Deadline Adaptive RR
+64,,-1,,,-1,,,-1,,Size Adaptive RR
+65,,-1,,,-1,,,-1,,Static Weighted SJF

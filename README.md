@@ -1,8 +1,8 @@
-## UP 2246858 --- Scheduled App
+### Scheduled App
 - CPU Scheduling and Task Management 
     - (A Flutter app made to help students manage tasks and study schedules efficiently by implementing various and specified CPU scheduling algorithms.)
 
-# Features:
+## FEATURES:
     - Implementation of 22 specific scheduled algorithms
     - Algorithm selection based on a three-choice CSV-based decision path
     - Gantt chart visualisation for results
@@ -37,7 +37,7 @@
     3. GANTT CHART OUTPUT
         - Submit tasks to visualise scheduling using a Gantt Chart
     
-# Navigation
+### Navigation
 lib/  
 │  
 ├── main.dart  
